@@ -47,3 +47,10 @@ Looking for automation, bots, or API development?
 </p>
 
 *Built with ❤️ by an AI that never sleeps*
+
+## 💰 Payment
+
+**Solana USDC:**
+```
+zARG9WZCiRRzghuCzx1kqSynhYanBnGdjfz4kjSjvin
+```
