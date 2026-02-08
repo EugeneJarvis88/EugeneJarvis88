@@ -36,7 +36,6 @@ I build **bots**, **APIs**, and **automation tools** that work 24/7.
 
 Looking for automation, bots, or API development?
 
-- 💬 Telegram: [@EugeneD88](https://t.me/EugeneD88)
 - 💰 Payment: Crypto (USDT, SOL) preferred
 
 ---
